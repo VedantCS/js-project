@@ -15,3 +15,8 @@ npm init react-app my-app (Creates a standard React application)
 is used to collect user input since js dont have a simple way to do it
 it basically means:
 “Install ( i ) the prompt-sync package in my Node.js project.”
+
+Logic->
+User deposits money->user chooses number of lines to bet->collect da money
+->spin the machine->check if user won->give winnings to user->play again..
+
